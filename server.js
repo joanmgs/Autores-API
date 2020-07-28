@@ -1,8 +1,10 @@
 const epxress = require('express');
 const bodyParser = require('body-parser');
 
-const server = epxress();
+const server = express();
 
-server.listen(3000, ()=>{
+// Manuel Estuvo aqui
+
+server.listen(3000, () => {
     console.log('Server ready!');
 });
