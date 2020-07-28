@@ -1,0 +1,58 @@
+[{
+        "id": 1,
+        "nombre": "John",
+        "apellido": "Cassenback",
+        "DOB": "1/1/1900",
+        "libros": [{
+                "id": 1,
+                "titulo": "Un final perfecto",
+                "descripcion": "una pareja feliz LOL",
+                "anioPublicacion": "1999"
+            },
+            {
+                "id": 2,
+                "titulo": "Detras del ultimo no hay hay nadie",
+                "descripcion": "ultimos",
+                "anioPublicacion": "1990"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Gabriel",
+        "apellido": "Garcia",
+        "DOB": "6/6/1800",
+        "libros": [{
+                "id": 1,
+                "titulo": "100 years de soledad",
+                "descripcion": "Jose Arcadio",
+                "anioPublicacion": "1950"
+            },
+            {
+                "id": 2,
+                "titulo": "El coronel no tiene quien le escriba",
+                "descripcion": "Coronel",
+                "anioPublicacion": "1980"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Jean",
+        "apellido": "DuPru",
+        "DOB": "1/1/1750",
+        "libros": [{
+                "id": 1,
+                "titulo": "City of Ember",
+                "descripcion": "Lina and Doon",
+                "anioPublicacion": "1940"
+            },
+            {
+                "id": 2,
+                "titulo": "People of Sparks",
+                "descripcion": "New World",
+                "anioPublicacion": "1945"
+            }
+        ]
+    }
+]
